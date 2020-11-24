@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1 {
+    color: red;
+}
+
+button {
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-white {
+    background-color: white;
+}
